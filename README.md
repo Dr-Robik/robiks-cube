@@ -7,8 +7,8 @@ and no, it’s NOT rubik
 i don’t solve cubes… i AM the cube (with glasses btw)
 
 
-![me](images/render_1.jpg)
+![me](images/robik_front.png)
 
-![me](images/render_2.png)
+![me](images/robik_side.png)
 
-![me](images/render_3.png)
+![me](images/robik_upper.png)
